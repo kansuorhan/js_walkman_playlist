@@ -1,11 +1,11 @@
-/* varsayilan ozellikleri sifirla*/
+
 *{
   padding: 0;;
   margin: 0;
   box-sizing: border-box;
 }
 
-/* arka plan tam ekran ve renk gecisi*/
+
 body{
   height: 100vh;
   background: linear-gradient(to left, rgb(74, 174, 74), rgba(66, 66, 189, 0.734));
