@@ -8,7 +8,7 @@
 
 body{
   height: 100vh;
-  background: linear-gradient(to left, rgb(74, 174, 74), rgba(66, 66, 189, 0.734));
+  background: linear-gradient(to left, rgb(30, 141, 139), rgba(88, 26, 151, 0.734));
 }
 
 /* music player*/
@@ -31,7 +31,7 @@ width: 100%;
 margin-top: 1.25em;
 border-radius: 1rem;
 max-height: 300px;
-box-shadow: 0 0 10px rgba(83, 183, 111, 0.866);
+box-shadow: 0 0 15px rgba(85, 1, 1, 0.866);
 }
 
 #playlist{
